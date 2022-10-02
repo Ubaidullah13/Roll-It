@@ -1,6 +1,10 @@
 # roll_it
 
-Dice
+Learning Flutter
+
+![App ScreenShot](https://github.com/Ubaidullah13/Roll-It/blob/master/images/Roll-It.jpeg)
+
+![App Icon](https://github.com/Ubaidullah13/Roll-It/blob/master/images/Roll-It%20icon.png)
 
 ## Getting Started
 
